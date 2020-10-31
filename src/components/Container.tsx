@@ -9,6 +9,7 @@ export const Container = (props: FlexProps) => {
       justifyContent="center"
       bg="gray.800"
       color="white"
+      p={6}
       {...props}
     />
   );

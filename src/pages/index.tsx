@@ -1,9 +1,10 @@
 import React from "react";
 import { Container } from "../components/Container";
+import JoinForm from "../components/JoinForm";
 
 const Index = () => (
   <Container>
-    <h1>HelloWorld</h1>
+    <JoinForm></JoinForm>
   </Container>
 );
 
