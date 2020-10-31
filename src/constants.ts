@@ -1,2 +1,1 @@
-export const ENDPOINT = "localhost:5000";
-
+export const ENDPOINT = "https://echattyserver.herokuapp.com/";
